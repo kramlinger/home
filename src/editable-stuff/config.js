@@ -62,7 +62,7 @@ const about = {
   imageLink: require("../editable-stuff/kramlinger.png"),
   imageSize: 375,
   message:
-    "Hi, my name is Peter and I currently at the Department of Statistics of the University of California, Davis. My research interests are: <mark>High dimensional statistisc</mark>, <mark>model selection</mark>, <mark>Mixed models</mark>, and <mark>Small Area Estimation</mark>."
+    "Hi, my name is Peter and I currently at the Department of Statistics of the University of California, Davis. My research interests are: __High dimensional statistics__, __model selection__, __mixed-effects models__, and __Small Area Estimation__."
 //  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
