@@ -13,7 +13,15 @@ const mainBody = {
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/kramlinger",
+    },
+    {
+      image: "fa-globe",
+      url: "https://statistics.ucdavis.edu/people/peter-kramlinger",
+    },
+    {
+      image: "fa-globe",
+      url: "https://orcid.org/0000-0003-2243-3766",
     },
 //    {
 //      image: "fa-facebook",
