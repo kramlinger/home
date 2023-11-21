@@ -9,18 +9,18 @@ const mainBody = {
   firstName: "Peter",
   middleName: "",
   lastName: "Kramlinger",
-  message: " It’s easy to lie with statistics. It’s hard to tell the truth without statistics.  ",
+  message: " Visiting assistant professor at UC Davis ",
   icons: [
     {
       image: "fa-github",
       url: "https://github.com/kramlinger",
     },
     {
-      image: "fa-globe",
+      image: "academia",
       url: "https://statistics.ucdavis.edu/people/peter-kramlinger",
     },
     {
-      image: "fa-globe",
+      image: "orcid",
       url: "https://orcid.org/0000-0003-2243-3766",
     },
 //    {
@@ -62,7 +62,7 @@ const about = {
   imageLink: require("../editable-stuff/kramlinger.png"),
   imageSize: 375,
   message:
-    "Hi, my name is Peter and I am currently at the Department of Statistics of the University of California, Davis. My research interests are: __High dimensional statistics__, __model selection__, __mixed-effects models__, and __Small Area Estimation__."
+    "Hi, my name is Peter and I am currently at the Department of Statistics of the University of California, Davis. My research interests are: High dimensional statistics, model selection, mixed-effects models, and Small Area Estimation."
 //  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
